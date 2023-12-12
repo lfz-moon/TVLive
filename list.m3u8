@@ -4,7 +4,7 @@ http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfile
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CCTV2.png" group-title="央视",CCTV-2 财经
 http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20231212141228&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=115.196.137.46&SecurityKey=20231212141228&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&puData=2d87a69da8d6478f1df39d90403f1221&ddCalcu=122de281174fa036094d0a98dd9634f7d81f&jid=b68f0b7c5358232e9a6ccb627481e8631702361547416V&is_advertise=0&sjid=subsession_1702361612325
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CCTV5.png" group-title="央视",CCTV-5 体育
