@@ -194,7 +194,7 @@ http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfile
 http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/NEWTV超级体育.png" group-title="NewTV",NewTV超级体育
 http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/IHOT爱院线.png" group-title="IHOT爱院线",IHOT爱院线
+#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/IHOT爱院线.png" group-title="IHOT",IHOT爱院线
 http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/IHOT爱都市.png" group-title="IHOT",IHOT爱都市
 http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3&HlsProfileId=
