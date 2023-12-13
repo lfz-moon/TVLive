@@ -36,75 +36,75 @@ http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfile
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CCTV4k.png" group-title="央视",CCTV-4K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+http://alltzy.cn/dl/bestv.php?id=cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CGTN.png" group-title="央视",CGTN
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/北京卫视.png" group-title="卫视",北京卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/东方卫视.png" group-title="卫视",东方卫视
-http://hms364nc1972679592.live.aikan.miguvideo.com/wh7f454c46tw420368613_1717615417/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=221.229.212.87&timestamp=20231213035237&ContentId=264104266&timezone=UTC&mtv_session=dc32b966bf8bff77d3810ad8c5700ec0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4ccc1040c85ccba1c08f5d40e76aa516
+http://alltzy.cn/dl/bestv.php?id=dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江卫视.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/湖南卫视.png" group-title="卫视",湖南卫视
-http://47.242.38.45:9999/ysp.php?id=hunws
+http://alltzy.cn/dl/bestv.php?id=hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/深圳卫视.png" group-title="卫视",深圳卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/天津卫视.png" group-title="卫视",天津卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/广东卫视.png" group-title="卫视",广东卫视
-http://47.242.38.45:9999/ysp.php?id=gdws
+http://alltzy.cn/dl/bestv.php?id=gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/安徽卫视.png" group-title="卫视",安徽卫视
 http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://47.242.38.45:9999/ysp.php?id=lnws
+http://alltzy.cn/dl/bestv.php?id=lnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/四川卫视.png" group-title="卫视",四川卫视
-http://47.242.38.45:9999/ysp.php?id=scws
+http://alltzy.cn/dl/bestv.php?id=scwshd/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/重庆卫视.png" group-title="卫视",重庆卫视
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225791/1.m3u8
+http://alltzy.cn/dl/bestv.php?id=cqws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/贵州卫视.png" group-title="卫视",贵州卫视
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225793/1.m3u8m
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/江西卫视.png" group-title="卫视",江西卫视
-http://47.242.38.45:9999/ysp.php?id=jxws
+http://alltzy.cn/dl/bestv.php?id=jxws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/东南卫视.png" group-title="卫视",东南卫视
-http://47.242.38.45:9999/ysp.php?id=dnws
+http://alltzy.cn/dl/bestv.php?id=dnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/厦门卫视.png" group-title="卫视",厦门卫视
-
+http://alltzy.cn/dl/bestv.php?id=xmws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/湖北卫视.png" group-title="卫视",湖北卫视
-http://47.242.38.45:9999/ysp.php?id=hubws
+http://alltzy.cn/dl/bestv.php?id=hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/河南卫视.png" group-title="卫视",河南卫视
-http://47.242.38.45:9999/ysp.php?id=henws
+http://alltzy.cn/dl/bestv.php?id=hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/山东卫视.png" group-title="卫视",山东卫视
-http://47.242.38.45:9999/ysp.php?id=sdws
+http://alltzy.cn/dl/bestv.php?id=sdws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/海南卫视.png" group-title="卫视",海南卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/广西卫视.png" group-title="卫视",广西卫视
-http://47.242.38.45:9999/ysp.php?id=gxws
+http://alltzy.cn/dl/bestv.php?id=gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/吉林卫视.png" group-title="卫视",吉林卫视
-
+http://alltzy.cn/dl/bestv.php?id=jlwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/陕西卫视.png" group-title="卫视",陕西卫视
-
+http://alltzy.cn/dl/bestv.php?id=sxws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-
+http://alltzy.cn/dl/bestv.php?id=nmgws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/西藏卫视.png" group-title="卫视",西藏卫视
-
+http://alltzy.cn/dl/bestv.php?id=xzws/2500000/mnf.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/河北卫视.png" group-title="卫视",河北卫视
-
+http://alltzy.cn/dl/bestv.php?id=hbwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/青海卫视.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/宁夏卫视.png" group-title="卫视",宁夏卫视
-
+http://alltzy.cn/dl/bestv.php?id=nxws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/云南卫视.png" group-title="卫视",云南卫视
 http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/山西卫视.png" group-title="卫视",山西卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/甘肃卫视.png" group-title="卫视",甘肃卫视
-
+http://alltzy.cn/dl/bestv.php?id=gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/新疆卫视.png" group-title="卫视",新疆卫视
-
+http://alltzy.cn/dl/bestv.php?id=xjws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/兵团卫视.png" group-title="卫视",兵团卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/延边卫视.png" group-title="卫视",延边卫视
@@ -119,6 +119,7 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/纪实人文.png" group-title="卫视",纪实人文
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
+http://alltzy.cn/dl/bestv.php?id=jykt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/金鹰纪实.png" group-title="卫视",金鹰纪实
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/家庭理财.png" group-title="卫视",家庭理财
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/中国天气.png" group-title="卫视",中国天气
@@ -127,33 +128,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226227/1.m3
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/优漫卡通.png" group-title="卫视",优漫卡通
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/哈哈炫动.png" group-title="卫视",哈哈炫动
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226213/1.m3u8
-#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江新闻.png" group-title="地方",浙江公共新闻
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江国际.png" group-title="地方",浙江国际
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江少儿.png" group-title="地方",浙江少儿
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江教科影视.png" group-title="地方",浙江教科影视
-#EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/之江记录.png" group-title="地方",浙江数码时代
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江民生休闲.png" group-title="地方",浙江民生休闲
-#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江经济生活.png" group-title="地方",浙江经济生活
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/钱江都市.png" group-title="地方",浙江钱江频道
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古新闻综合.png" group-title="地方",内蒙古新闻综合
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古经济生活.png" group-title="地方",内蒙古经济生活
-#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古少儿.png" group-title="地方",内蒙古少儿频道
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古文体娱乐.png" group-title="地方",内蒙古文体娱乐
-#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古农牧.png" group-title="地方",内蒙古农牧频道
-#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古蒙语卫视.png" group-title="地方",内蒙古蒙语卫视
-#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古蒙语文化.png" group-title="地方",内蒙古蒙语文化
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/上视新闻.png" group-title="地方",上海新闻综合
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/上海都市.png" group-title="地方",上海都市
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/凤凰卫视中文台.png" group-title="港澳",凤凰中文
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/翡翠台.png" group-title="港澳",翡翠台
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/明珠台.png" group-title="港澳",明珠台
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/澳视澳门.png" group-title="港澳",澳视澳门
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/星空卫视.png" group-title="港澳",星空卫视
-#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/澳亚卫视.png" group-title="港澳",澳亚卫视
-#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/耀才财经.png" group-title="港澳",耀才财经
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/香港卫视.png" group-title="港澳",香港卫视
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/澳门莲花.png" group-title="港澳",莲花卫视
-#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/人间卫视.png" group-title="港澳",人间卫视
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="NewTV超级综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/NEWTV超级综艺.png" group-title="NewTV",NewTV超级综艺
 http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="NewTV超级电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/NEWTV超级电影.png" group-title="NewTV",NewTV超级电影
