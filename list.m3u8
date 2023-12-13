@@ -40,71 +40,71 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/CGTN.png" group-title="央视",CGTN
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/北京卫视.png" group-title="卫视",北京卫视
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225796/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/东方卫视.png" group-title="卫视",东方卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://hms364nc1972679592.live.aikan.miguvideo.com/wh7f454c46tw420368613_1717615417/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=221.229.212.87&timestamp=20231213035237&ContentId=264104266&timezone=UTC&mtv_session=dc32b966bf8bff77d3810ad8c5700ec0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4ccc1040c85ccba1c08f5d40e76aa516
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/浙江卫视.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/江苏卫视.png" group-title="卫视",江苏卫视
-http://mgsp-hs.live.miguvideo.com:8088/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=699067&netType=4&sid=5500199408&pid=2028597139&timestamp=20231212143054&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=115.196.137.46&SecurityKey=20231212143054&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702362654820V&is_advertise=0&sjid=subsession_1702362691794&mtv_session=beab6c56747392dccbe7d04e6a2ea70f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=acd484751ee3c2885ef746d9510b9856
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/湖南卫视.png" group-title="卫视",湖南卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://47.242.38.45:9999/ysp.php?id=hunws
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/深圳卫视.png" group-title="卫视",深圳卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/天津卫视.png" group-title="卫视",天津卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/广东卫视.png" group-title="卫视",广东卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://47.242.38.45:9999/ysp.php?id=gdws
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/安徽卫视.png" group-title="卫视",安徽卫视
 http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://mgsp-tx.live.miguvideo.com:8088/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=800033&netType=4&sid=5500321234&pid=2028597139&timestamp=20231212143235&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=630291707&ParentNodeID=-99&assertID=5500321234&client_ip=115.196.137.46&SecurityKey=20231212143235&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702362755470V&is_advertise=0&sjid=subsession_1702362817028&mtv_session=b1264578267d7336ca3f7c500f265cd5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=30d30b7e2add8f212e96cfa7566773f0
+http://47.242.38.45:9999/ysp.php?id=lnws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/四川卫视.png" group-title="卫视",四川卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+http://47.242.38.45:9999/ysp.php?id=scws
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/重庆卫视.png" group-title="卫视",重庆卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225791/1.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/贵州卫视.png" group-title="卫视",贵州卫视
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225793/1.m3u8m
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/江西卫视.png" group-title="卫视",江西卫视
-http://mgsp-hs.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20231212143434&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=115.196.137.46&SecurityKey=20231212143434&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702362874355V&is_advertise=0&sjid=subsession_1702362920947&mtv_session=895b27f83fd126d91c3334669c225ca9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a9f73a95d5d01eda36f864228032570e
+http://47.242.38.45:9999/ysp.php?id=jxws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/东南卫视.png" group-title="卫视",东南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+http://47.242.38.45:9999/ysp.php?id=dnws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/厦门卫视.png" group-title="卫视",厦门卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/湖北卫视.png" group-title="卫视",湖北卫视
-http://mgws.live.miguvideo.com:8088/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600632&netType=4&sid=5910020463&pid=2028597139&timestamp=20231212143755&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=738906825&ParentNodeID=-99&assertID=5910020463&client_ip=115.196.137.46&SecurityKey=20231212143755&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&mtv_session=7ed865384611ca310d70aea8c2496174&jid=b68f0b7c5358232e9a6ccb627481e8631702363075573V&is_advertise=0&sjid=subsession_1702363106690&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c04f98f14aaffbd3fa4c5f100be8312
+http://47.242.38.45:9999/ysp.php?id=hubws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/河南卫视.png" group-title="卫视",河南卫视
-http://mgws.live.miguvideo.com:8088/wd-henanwssd-600/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910021585&pid=2028597139&timestamp=20231212143900&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=115.196.137.46&SecurityKey=20231212143900&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&mtv_session=525c4939fe57f64a054315cdda073442&jid=b68f0b7c5358232e9a6ccb627481e8631702363140816V&is_advertise=0&sjid=subsession_1702363172099&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=644ff5148e53041dd3b8ddf0871b5016
+http://47.242.38.45:9999/ysp.php?id=henws
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/山东卫视.png" group-title="卫视",山东卫视
-http://mgsp-hs.live.miguvideo.com:8088/wd-shandonghd-1200/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910020470&pid=2028597139&timestamp=20231212144035&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=738910366&ParentNodeID=-99&assertID=5910020470&client_ip=115.196.137.46&SecurityKey=20231212144035&promotionId=&mvid=5900004325&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702363235933V&is_advertise=0&sjid=subsession_1702363272211&mtv_session=8ef33f2ac42bb914cab7e0c543c45e75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=23c7c0d49974287993257b13efcae3fc
+http://47.242.38.45:9999/ysp.php?id=sdws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/海南卫视.png" group-title="卫视",海南卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/广西卫视.png" group-title="卫视",广西卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+http://47.242.38.45:9999/ysp.php?id=gxws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/吉林卫视.png" group-title="卫视",吉林卫视
-http://mgsp-hs.live.miguvideo.com:8088/wd-guangxiwssd-600/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910021489&pid=2028597139&timestamp=20231212144206&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=783844132&ParentNodeID=-99&assertID=5910021489&client_ip=115.196.137.46&SecurityKey=20231212144206&promotionId=&mvid=5900004343&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702363326856V&is_advertise=0&sjid=subsession_1702363357842&mtv_session=b17c821677caf87e54826279d58e4616&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=658f7f367cf78aa8fa71996a0efd3a86
+
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/陕西卫视.png" group-title="卫视",陕西卫视
-http://mgsp-tx.live.miguvideo.com:8088/migu/kailu/shan3xiws/51/20220809/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910020475&pid=2028597139&timestamp=20231212144434&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=115.196.137.46&SecurityKey=20231212144434&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702363474254V&is_advertise=0&sjid=subsession_1702363505445&mtv_session=49341ff0a02b8c70dba6ef26b3e98689&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1a123b0043f390e0a11b7c950f105500
+
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://mgws.live.miguvideo.com:8088/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910020478&pid=2028597139&timestamp=20231212144616&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=738911430&ParentNodeID=-99&assertID=5910020478&client_ip=115.196.137.46&SecurityKey=20231212144616&promotionId=&mvid=5900004335&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&mtv_session=6f265c25c027a8f3d2316d7747b4658c&jid=b68f0b7c5358232e9a6ccb627481e8631702363576264V&is_advertise=0&sjid=subsession_1702363607558&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=af66cdc430d7672dd1843a86c7d627de
+
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/西藏卫视.png" group-title="卫视",西藏卫视
-http://mgsp-tx.live.miguvideo.com:8088/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910020471&pid=2028597139&timestamp=20231212144736&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=738910461&ParentNodeID=-99&assertID=5910020471&client_ip=115.196.137.46&SecurityKey=20231212144736&promotionId=&mvid=5900004339&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702363656414V&is_advertise=0&sjid=subsession_1702363687726&mtv_session=1990a624e3ad98b9fc5c276eb00c6026&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=68009c39c04a6bfe56b5b613819383e7
+
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/河北卫视.png" group-title="卫视",河北卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/青海卫视.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225748/index.m3u8
+
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/云南卫视.png" group-title="卫视",云南卫视
-http://mgsp-hs.live.miguvideo.com:8088/envivo_x/2018/SD/yunnan/1000/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910021491&pid=2028597139&timestamp=20231212144917&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=783846580&ParentNodeID=-99&assertID=5910021491&client_ip=115.196.137.46&SecurityKey=20231212144917&promotionId=&mvid=5900004345&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702363757636V&is_advertise=0&sjid=subsession_1702363758191&mtv_session=b985e8e8b7576fde6759823ec11399ae&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ef4fc70bbdb19752fd12b13651dae5fd
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/山西卫视.png" group-title="卫视",山西卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://mgsp-tx.live.miguvideo.com:8088/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=b68f0b7c5358232e9a6ccb627481e863&mdspid=&spid=600633&netType=4&sid=5910020477&pid=2028597139&timestamp=20231212145025&Channel_ID=0116_2600010950-99000-201600010010024&ProgramID=738910997&ParentNodeID=-99&assertID=5910020477&client_ip=115.196.137.46&SecurityKey=20231212145025&promotionId=&mvid=5900004333&mcid=500020&playurlVersion=WX-A1-6.11.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=b68f0b7c5358232e9a6ccb627481e8631702363825008V&is_advertise=0&sjid=subsession_1702363825600&mtv_session=ecbb2067f577805113b77e58e67d2c6d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7d55e8fff58e23eb600b858fd50c7bb5
+
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/新疆卫视.png" group-title="卫视",新疆卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/兵团卫视.png" group-title="卫视",兵团卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/lfz-moon/TVLive/main/ICON/延边卫视.png" group-title="卫视",延边卫视
